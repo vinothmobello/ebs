@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
+            'host'      => 'mobellodb.cpselrcl7m3w.ap-southeast-1.rds.amazonaws.com',
             'port'      => 3306,
             'database'  => 'october_cms',
-            'username'  => 'admin',
-            'password'  => 'howtoforge',
+            'username'  => 'root',
+            'password'  => 'cayenneapp',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
