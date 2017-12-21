@@ -56,7 +56,7 @@ return [
             'driver'    => 'mysql',
             'host'      => 'mobellodb.cpselrcl7m3w.ap-southeast-1.rds.amazonaws.com',
             'port'      => 3306,
-            'database'  => 'october_cms',
+            'database'  => 'cms',
             'username'  => 'root',
             'password'  => 'cayenneapp',
             'charset'   => 'utf8',
